@@ -61,7 +61,7 @@ $(() => {
 					const imageTag = makeImageHTML(src, imgAltText);
 					
 				$menuBakery.append(`<td>${product.name}</td>+<td>${product.price}</td>`);
-				$menuBakery.append(imageTag);
+			     $menuBakery.append(imageTag);
 
 
 			}
@@ -86,7 +86,7 @@ $(() => {
 					const imgAltText = "Sorry, no image.";
 					const imageTag = makeImageHTML(src, imgAltText);
 					$menuOther.append(`<td>${product.name}</td>+<td>${product.price}</td>`);
-				$menuOther.append(imageTag);
+			        $menuOther.append(imageTag);
 
 				
 			}
