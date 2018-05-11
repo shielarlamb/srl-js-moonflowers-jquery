@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "name": "Assorted Muffins",
+      "type": "bakery",
+      "price": "$1.75",
+      "img": "muffins.jpg"
+      },
+    {
+      "name": "Fresh Baked Brownie",
+      "type": "bakery",
+      "price": "$2.00",
+      "img": "brownies.jpg"
+      },
+    {
+      "name": "Fresh Ground Coffee",
+      "type": "beverage",
+      "price": "$2.25"
+      },
+    {
+      "name": "Assorted Scones",
+      "type": "bakery",
+      "price": "$2.50",
+      "img": "scones.jpg"
+      },
+    {
+      "name": "Espresso",
+      "type": "beverage",
+      "price": "$2.75",
+      "img": "espresso.jpg"
+      },
+    {
+      "name": "Americano",
+      "type": "beverage",
+      "price": "$2.85",
+      "img": "americano.jpg"
+      },
+    {
+      "name": "Cappuccino",
+      "type": "beverage",
+      "price": "$3.50",
+      "img": "cappuccino.jpg"
+      },
+    {
+      "name": "Latte",
+      "type": "beverage",
+      "price": "$3.50",
+      "img": "latte.jpg"
+      },
+    {
+      "name": "Moonflowers T-shirt",
+      "type": "other",
+      "price": "$12.00"
+      },
+    {
+      "name": "Mocha",
+      "type": "beverage",
+      "price": "$3.75",
+      "img": "mocha.jpg"
+      },
+    {
+      "name": "Breve",
+      "type": "beverage",
+      "price": "$3.75",
+      "img": "breve.jpg"
+      },
+    {
+      "name": "Slice of Chocolate Cake",
+      "type": "bakery",
+      "price": "$3.75",
+      "img": "choc-cake.jpg"
+      },
+    {
+      "name": "Slice of Strawberry Cream Cake",
+      "type": "bakery",
+      "price": "$3.75",
+      "img": "white-cake.jpg"
+      }
+    ]
+}
