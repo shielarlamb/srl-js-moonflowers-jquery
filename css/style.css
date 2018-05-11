@@ -170,10 +170,10 @@ table caption {
 }
 
 tr {
-  border: 1px solid #5E9F9A;
+  border-top: 1px solid #5E9F9A;
 }
 table{
-  border: 1px solid #5E9F9A;
+  border-top: 1px solid #5E9F9A;
 	width: 800px;
 	text-align: left;
 	column-width: 200px;
